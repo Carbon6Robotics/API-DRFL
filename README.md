@@ -30,6 +30,9 @@ The link below is a link to the solution file for using the windows example.
 
 #### Ubuntu 20.04
 
+> The Poco library can be downloaded with the command below.
+> **$ sudo apt-get install libpoco-dev**
+
 1. Build with g++ in the example directory
 `$ g++ -c main.cpp`
 2.	If main.o is created normally, enter the command below to create an example file
@@ -38,6 +41,4 @@ The link below is a link to the solution file for using the windows example.
 
 3.	Check the build. When the build is complete, test the actual controller and connection.
 
-> The Poco library can be downloaded with the command below.
-> **$ sudo apt-get install libpoco-dev**
 
